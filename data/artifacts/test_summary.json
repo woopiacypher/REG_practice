@@ -1,0 +1,9 @@
+{
+  "questions": 20,
+  "passed": 19,
+  "hit_at_1": 0.8,
+  "hit_at_5": 0.95,
+  "model": "qwen3-embedding:0.6b",
+  "collection": "skhynix_basic",
+  "scope": "기간을 지정한 검색의 근거 발견률. 생성 답변 평가 아님."
+}

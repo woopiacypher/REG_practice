@@ -1,0 +1,6 @@
+{
+  "model": "qwen3-embedding:0.6b",
+  "collection": "skhynix_basic",
+  "query_prefix": "Instruct: Given a question, retrieve passages from Korean financial disclosures that answer the question.\nQuery:",
+  "chunk_count": 796
+}
